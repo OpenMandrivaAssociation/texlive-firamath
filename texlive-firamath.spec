@@ -1,6 +1,6 @@
 Name:		texlive-firamath
 Version:	56672
-Release:	1
+Release:	2
 Summary:	Fira sans serif font with Unicode math support
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/firamath
