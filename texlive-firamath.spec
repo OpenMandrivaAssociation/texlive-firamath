@@ -3,7 +3,7 @@ Version:	56672
 Release:	2
 Summary:	Fira sans serif font with Unicode math support
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/firamath
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/firamath
 License:	ofl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/firamath.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/firamath.doc.r%{version}.tar.xz
